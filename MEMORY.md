@@ -1,0 +1,2 @@
+- [Attached images and Vite builds](attached-images-vite.md) — Replit preview can serve uploaded attachment URLs that are absent from production output.
+- [TanStack Start and Vite boundaries](start-runtime-boundaries.md) — Keep server-function dependencies isolated and Replit-only directories out of Vite's watcher.
